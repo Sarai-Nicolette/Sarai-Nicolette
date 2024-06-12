@@ -10,6 +10,8 @@ I'm deeply committed to advancing __Solarpunk__ ideals—a philosophy centered a
 My thesis work which demonstrates __the novel application of the Gaussian Process (a machine learning algorithm) for estimating the flight mobility performance for autonomous rotorcraft in real-time.__ 
 PhD work can be very niche, but I am working on other projects to demonstrate the wide array of machine learning applications for improving the safety/self-awareness of AVs. Links to each project will be added here!
 
+- <code style="color : darkorange">[Thesis Project Overview](https://github.com/Sarai-Nicolette/AutonomousVehicleThesisProjectDemonstration)</code>
+
 ### Fun Fact! 🐾
 Ever seen a cat high-five or walk on a treadmill? That's my specialty! I love training my cat, Ravioli, to do adorable tricks. Check out his IG or TikTok page [@RaviolitheBoy](https://www.instagram.com/RaviolitheBoy) for some paw-some content!
 
