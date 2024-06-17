@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sarai Nicolette (she/her)
 
 ### Who am I? 🚀
-I'm a recent Georgia Tech PhD graduate, fueled by a passion for deploying safe and secure autonomous vehicles (AVs). My mission? To support thriving and eco-friendly communities through innovative technology.
+I'm a recent Georgia Tech PhD graduate, fueled by a passion for deploying safe and secure autonomous vehicles (AVs). My mission is to support thriving and eco-friendly communities through innovative technology.
 
 ### What I value? 💚
 I'm deeply committed to advancing __Solarpunk__ ideals—a philosophy centered around leveraging technology and design to prioritize planetary well-being and the welfare of humanity. Let's forge a future where sustainability is woven into the fabric of our everyday lives.
