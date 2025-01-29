@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sarai Nicolette (she/her)
 
 ### Who am I? 🚀
-I'm a recent Georgia Tech PhD graduate, fueled by a passion for deploying safe and secure autonomous vehicles (AVs). My mission is to support thriving and eco-friendly communities through innovative technology.
+I'm a Georgia Tech PhD graduate, fueled by a passion for deploying safe and secure autonomous vehicles (AVs) that uphold a healthy ecosystem of transportation options. My mission is to support thriving and eco-friendly communities through innovative technology.
 
 ### What I value? 💚
 I'm deeply committed to advancing __Solarpunk__ ideals—a philosophy centered around leveraging technology and design to prioritize planetary well-being and the welfare of humanity. Let's forge a future where sustainability is woven into the fabric of our everyday lives.
@@ -13,8 +13,6 @@ PhD work can be very niche, but I am working on other projects to demonstrate th
 - <code style="color : darkorange">[Thesis Project Overview](https://github.com/Sarai-Nicolette/AutonomousVehicleThesisProjectDemonstration)</code>
 - <code style="color : darkorange">[Neural Network Classification](https://github.com/Sarai-Nicolette/Neural_Network_Classification_Example)</code> 
 
-### Fun Fact! 🐾
-Ever seen a cat high-five or walk on a treadmill? That's my specialty! I love training my cat, Ravioli, to do adorable tricks. Check out his IG or TikTok page [@RaviolitheBoy](https://www.instagram.com/RaviolitheBoy) for some paw-some content!
 
 
 <!---
